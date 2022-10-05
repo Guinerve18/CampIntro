@@ -1,0 +1,15 @@
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.csproj.AssemblyReference.cache
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.AssemblyInfoInputs.cache
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.AssemblyInfo.cs
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\bin\Debug\net6.0\classMethodDemo.exe
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\bin\Debug\net6.0\classMethodDemo.deps.json
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\bin\Debug\net6.0\classMethodDemo.runtimeconfig.json
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\bin\Debug\net6.0\classMethodDemo.dll
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\bin\Debug\net6.0\classMethodDemo.pdb
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.dll
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\refint\classMethodDemo.dll
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.pdb
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\classMethodDemo.genruntimeconfig.cache
+C:\Users\Casper\source\repos\CampIntro\classMethodDemo\obj\Debug\net6.0\ref\classMethodDemo.dll
