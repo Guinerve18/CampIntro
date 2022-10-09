@@ -17,7 +17,7 @@ namespace Methods
 
         public void Ekle2(string Name, string Aciklama, double Fiyat, int stokAdedi)
         {
-
+            
         }
     }
 }

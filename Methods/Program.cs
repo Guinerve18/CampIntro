@@ -32,7 +32,7 @@ namespace Methods
 			SepetManager sepetManager = new SepetManager();
 			sepetManager.Ekle(product2);
 
-			sepetManager.Ekle2("Lightsaber", "Star Wars Mav ışın Kılıcı", 400, 3);
+			//sepetManager.Ekle2("Lightsaber", "Star Wars Mav ışın Kılıcı", 400, 3);
 			sepetManager.Ekle2("Blaster", "Star Wars Replika Blaster", 300, 10);
 		}
 	}
