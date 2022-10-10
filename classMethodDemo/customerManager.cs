@@ -15,7 +15,7 @@ namespace classMethodDemo
 
         public void del(Customer customerss)
         {
-            Console.WriteLine("Kaydın Silindi!"+ customerss.Name + " " + "Aramızdan ayrıldığın İçin Çok Üzgünüz! :(");
+            Console.WriteLine("Kaydın Silindi!" + customerss.Name + " " + "Aramızdan ayrıldığın İçin Çok Üzgünüz! :(");
         }
     }
 }
